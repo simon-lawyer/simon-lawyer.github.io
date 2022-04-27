@@ -1,20 +1,19 @@
-### Research
+## Research
 
 I am a PhD student at Osgoode Hall Law School, working with Prof. Sean Rehaag. I have two broad research agendas. First, I use cutting-edge AI and natural language processing models to read caselaw at scale. My objective is to develop analytic methods to allow legal researchers to draw empirical conclusions about law's shape. For example, if a tribunal issues 20,000 decisions a year, I aim to find a way to read and render conclusions about the tribunal's total jurisprudence.
 
 Second, as a "crimmigration" lawyer, I am interested in the function and use of Canadian deportation law. I research Canadian inadmissibility law, administrative law, and the history of Canadian immigration law (specifically 1899 to 1914).
 
-### Background as a litigator
+## Background as a litigator
 
 Before returning to graduate school, I worked as an immigration and refugee lawyer. From 2019 to 2020, I worked at the Refugee Law Office (Legal Aid Ontario) as its first full-time immigration detention staff lawyer. Based out of Toronto's _Immigration Holding Centre_, I assisted migrants with  immigration detention matters and represented detainees on eleventh-hour motions to stay their deportations. 
 
 I advanced significant litigation regarding the use of solitary confinement, the limits of the state's power to detain migrants, and the government's obligations to disclose exculpatory evidence to detainees. Before becoming an immigration lawyer, I worked in criminal defence, prisoners' rights, and tenants' rights.
 
-### Awards and scholarships
-_Teaching_
+## Awards and scholarships
+### Teaching
 1. Part-time faculty of the year (2021-2022), Lincoln Alexander Law School (Toronto Metropolitan University)
-
-_Scholarships and Awards_
+### Scholarships and Awards
 1. Canada Graduate Scholarship, Social Sciences and Humanities Research Council (2022 - )
 2. Ontario Graduate Scholarship (2021-2022)
 3. Newton W. Rowell Scholarship (2021-2022)
