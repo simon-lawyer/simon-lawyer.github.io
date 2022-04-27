@@ -6,6 +6,7 @@ Second, as a "crimmigration" lawyer, I am interested in the function and use of 
 
 ## Contact info
 email: simonwallace at osgoode dot yorku dot ca
+
 twitter: [@simonwallace](https://twitter.com/SimonWallace)
 
 ## Background as a litigator
