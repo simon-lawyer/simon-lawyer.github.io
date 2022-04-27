@@ -21,7 +21,7 @@ I have advanced significant litigation regarding the use of solitary confinement
 
 ### Awards and scholarships
 #### Teaching
-1. Part-time faculty of the year (2021-2022), Lincoln Alexander Law School (Toronto Metropolitan University)
+1. Contract faculty of the year (2021-2022), Lincoln Alexander Law School (Toronto Metropolitan University)
 
 #### Scholarships and Awards
 1. Canada Graduate Scholarship, Social Sciences and Humanities Research Council (2022-2025)
