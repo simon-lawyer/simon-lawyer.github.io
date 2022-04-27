@@ -15,7 +15,9 @@ huggingface: [@simonosgoode](https://huggingface.co/simonosgoode) <br>
 
 Out of law school, I opened my own practice as a refugee, [tenants'](https://www.thestar.com/news/gta/2017/02/08/parkdale-tenants-take-to-the-street-to-fight-rent-hike.html) [rights](https://www.cbc.ca/radio/asithappens/friday-detroit-water-update-roma-attack-swedish-real-estate-company-and-more-1.2903412/toronto-s-parkdale-residents-fear-radical-gentrification-as-european-company-buys-up-thousands-of-apartments-1.2903419), and [prisoners' rights](https://www.canlii.org/en/ca/scc/doc/2019/2019scc29/2019scc29.html?autocompleteStr=chhina&autocompletePos=1) lawyer.
 
-From 2019 to 2020, I worked at the Refugee Law Office (Legal Aid Ontario) as its first full-time immigration detention staff lawyer. Based out of Toronto's _Immigration Holding Centre_, I assisted migrants with  immigration detention matters and represented detainees on eleventh-hour motions to stay their deportations. I have advanced significant litigation regarding the use of solitary confinement, the limits of the state's power to detain migrants, and the government's obligations to disclose exculpatory evidence to detainees. 
+From 2019 to 2020, I worked at the Refugee Law Office (Legal Aid Ontario) as its first full-time immigration detention staff lawyer. Based out of Toronto's _Immigration Holding Centre_, I assisted migrants with  immigration detention matters and represented detainees on eleventh-hour motions to stay their deportations. 
+
+I have advanced significant litigation regarding the use of solitary confinement, the limits of the state's power to detain migrants, and the government's obligations to disclose exculpatory evidence to detainees. 
 
 ## Awards and scholarships
 ### Teaching
