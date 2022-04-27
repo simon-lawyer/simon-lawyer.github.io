@@ -46,13 +46,15 @@ I have advanced significant litigation regarding the use of solitary confinement
 4. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., [_Keywords for Radicals_](https://www.akpress.org/keywords-for-radicals.html) (Chico, CA: AK Press, 2016).
 
 ### Forthcoming
-Publications due 2022 regarding:
+Publications anticipated for 2022:
 - origins of Canadian deportation law
 - empirical analysis of crimes against humanity and war crimes deportation cases
 - empirical analysis of terrorism and national security deportation cases
 
 ### Teaching
-Adjunct at Toronto Metropolitan University (Lincoln Alexander School of Law) and Queens University (Graduate Diploma in Immigration and Citizenship Law)
+Adjunct professor at:
+- Toronto Metropolitan University (Lincoln Alexander School of Law) 
+- Queens University (Graduate Diploma in Immigration and Citizenship Law)
 
 ### Presentations
 1. “Decarcerting the long-term detainee: explaining the why migrants spent fewer days in Canadian immigration detention (2013-2020),” Law and Society Annual Meeting: Lisbon, July 2022. [future event]
