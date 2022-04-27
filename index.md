@@ -1,9 +1,6 @@
 ### Bio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I am a deportation defence, immigration detention, and refugee lawyer. Before beginning my doctoral studies, I worked full-time out of the Toronto Immigration Holding Centre, assisting detainees with their detention and deportation cases. 
 
 ### Litigation background
 
