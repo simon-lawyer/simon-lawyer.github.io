@@ -1,6 +1,6 @@
 ## Research
 
-I am a PhD student at Osgoode Hall Law School, working with [Prof. Sean Rehaag](https://www.osgoode.yorku.ca/faculty-and-staff/rehaag-sean/), and an migrants-side immigration detention and deportation defence lawyer. 
+I am a PhD student at Osgoode Hall Law School, working with [Prof. Sean Rehaag](https://www.osgoode.yorku.ca/faculty-and-staff/rehaag-sean/). I am a researcher at the [Refugee Law Labratory](https://refugeelab.ca). 
 
 I have two broad research agendas. First, I use cutting-edge AI and natural language processing models to read caselaw at scale. My objective is to develop analytic methods to allow legal researchers to draw empirical conclusions about law's shape. For example, if a tribunal issues 20,000 decisions a year, I aim to find a way to read and render conclusions about the tribunal's total jurisprudence.
 
