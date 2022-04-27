@@ -4,7 +4,9 @@ I am a PhD student at Osgoode Hall Law School, working with Prof. Sean Rehaag. I
 
 Second, as a "crimmigration" lawyer, I am interested in the function and use of Canadian deportation law. I research Canadian inadmissibility law, administrative law, and the history of Canadian immigration law (specifically 1899 to 1914).
 
+## Contact info
 email: simonwallace at osgoode dot yorku dot ca
+twitter: [@simonwallace](https://twitter.com/SimonWallace)
 
 ## Background as a litigator
 
