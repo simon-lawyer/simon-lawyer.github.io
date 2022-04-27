@@ -36,10 +36,10 @@ I advanced significant litigation regarding the use of solitary confinement, the
 14. Symon’s Essay Prize, Trent University (2007, 2008).
 
 ## Publications
-1. “Untangling deportation law from national security: the pandemic invites a softer touch,” in Leah West, Thomas Juneau, and Amarnath Amarasingam eds., Stress Tested: The COVID-19 Pandemic and Canadian National Security (Calgary: University of Calgary Press, 2021)
-2. “Immigration Detention meets Evidence Law: a discussion paper,” for Fact-Finding in Immigration Detention Reviews: Evidence Law meets Administrative Law conference. [co-authors: Sean Rehaag and Benjamin Berger]
+1. “Untangling deportation law from national security: the pandemic invites a softer touch,” in Leah West, Thomas Juneau, and Amarnath Amarasingam eds., [_Stress Tested: The COVID-19 Pandemic and Canadian National Security_](https://prism.ucalgary.ca/bitstream/handle/1880/114134/9781773852447_OA.pdf) (Calgary: University of Calgary Press, 2021)
+2. [“Immigration Detention meets Evidence Law: a discussion paper,”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915791) for Fact-Finding in Immigration Detention Reviews: Evidence Law meets Administrative Law conference. [co-authors: Sean Rehaag and Benjamin Berger]
 3. “Deleted Emails, Fraudulent Documents, and Maximum-Security Prisons: A Canadian Case Shows the Illiberalism of Deportation,” Crimmigration Blog, University of Oxford (December 14, 2020).
-4. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., Keywords for Radicals (Chico, CA: AK Press, 2016).
+4. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., [_Keywords for Radicals_](https://www.akpress.org/keywords-for-radicals.html) (Chico, CA: AK Press, 2016).
 
 ## Forthcoming
 Publications due 2022 regarding:
