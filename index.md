@@ -19,7 +19,7 @@ I advanced significant litigation regarding the use of solitary confinement, the
 1. Part-time faculty of the year (2021-2022), Lincoln Alexander Law School (Toronto Metropolitan University)
 
 ### Scholarships and Awards
-1. Canada Graduate Scholarship, Social Sciences and Humanities Research Council (2022 - )
+1. Canada Graduate Scholarship, Social Sciences and Humanities Research Council (2022-2025)
 2. Ontario Graduate Scholarship (2021-2022)
 3. Newton W. Rowell Scholarship (2021-2022)
 4. Nathanson Centre on Transnational Human Rights, Crime and Security Fellowship (2020-2021)
