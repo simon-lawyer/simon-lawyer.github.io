@@ -47,7 +47,7 @@ I have advanced significant litigation regarding the use of solitary confinement
 
 ### Forthcoming
 Publications due 2022 regarding:
-- origins of Canadian deportaiton law
+- origins of Canadian deportation law
 - empirical analysis of crimes against humanity and war crimes deportation cases
 - empirical analysis of terrorism and national security deportation cases
 
