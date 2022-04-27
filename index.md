@@ -1,4 +1,4 @@
-### Bio
+### Research
 
 I am a deportation defence, immigration detention, and refugee lawyer. Before beginning my doctoral studies, I worked full-time out of the Toronto Immigration Holding Centre, assisting detainees with their detention and deportation cases. 
 
@@ -10,6 +10,28 @@ I am a deportation defence, immigration detention, and refugee lawyer. Before be
 
 1. Numbered
 2. List
+
+### Awards
+_Teaching_
+1. Part-time faculty of the year (2021-2022), Lincoln Alexander Law School (Toronto Metropolitan University)
+
+_Scholarships and Awards_
+1. Canada Graduate Scholarship, Social Sciences and Humanities Research Council (2022 - )
+2. Ontario Graduate Scholarship (2021-2022)
+3. Newton W. Rowell Scholarship (2021-2022)
+4. Nathanson Centre on Transnational Human Rights, Crime and Security Fellowship (2020-2021)
+5. John W. Graham Fellowship (2020-2023)
+6. York University Graduate Scholarship (2020)
+7. Frederick Zemans Prize in Poverty Law (2014)
+8. Judith Wahl Award in Law and Psychiatry, Osgoode Hall Law School (2014)
+9. Harry R. Rose Award for Highest Standing in Criminal Law, Osgoode Hall Law School (2013)
+10. Osgoode Student Award (2012)
+11. Mary Northway Graduate Award in Canadian Studies (2010)
+12. President’s List, Trent University (2008)
+13. Dean’s List, Trent University (2004-2008).
+14. Symon’s Essay Prize, Trent University (2007, 2008).
+
+
 
 **Bold** and _Italic_ and `Code` text
 
