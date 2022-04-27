@@ -32,16 +32,16 @@ I advanced significant litigation regarding the use of solitary confinement, the
 13. Dean’s List, Trent University (2004-2008).
 14. Symon’s Essay Prize, Trent University (2007, 2008).
 
-### Publications
+## Publications
 1. “Untangling deportation law from national security: the pandemic invites a softer touch,” in Leah West, Thomas Juneau, and Amarnath Amarasingam eds., Stress Tested: The COVID-19 Pandemic and Canadian National Security (Calgary: University of Calgary Press, 2021) [peer-reviewed]
 2. “Immigration Detention meets Evidence Law: a discussion paper,” for Fact-Finding in Immigration Detention Reviews: Evidence Law meets Administrative Law conference. [co-authors: Sean Rehaag and Benjamin Berger]
 3. “Deleted Emails, Fraudulent Documents, and Maximum-Security Prisons: A Canadian Case Shows the Illiberalism of Deportation,” Crimmigration Blog, University of Oxford (December 14, 2020).
 4. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., Keywords for Radicals (Chico, CA: AK Press, 2016).
 
-### Teaching
+## Teaching
 Adjunct at Toronto Metropolitan University (Lincoln Alexander School of Law) and Queens University (Graduate Diploma in Immigration and Citizenship Law)
 
-### Presentations
+## Presentations
 1. “Decarcerting the long-term detainee: explaining the why migrants spent fewer days in Canadian immigration detention (2013-2020),” Law and Society Annual Meeting: Lisbon, July 2022. [future event]
 2. “Crimmigration,” Summer Course on Refugees and Forced Migration, Centre for Refugee Studies, June 2022. [future event]
 3. “‘Our Chief Deportation Officer:’ Dr. Peter Bryce and the Department of the Interior (1904-1907),” Canadian Historical Association Annual Meeting, Congress of Humanities and Social Sciences, May 16, 2022. [future event]
