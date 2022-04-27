@@ -8,6 +8,7 @@ Second, as a "crimmigration" lawyer, I am interested in the function and use of 
 email: simonwallace at osgoode dot yorku dot ca
 
 twitter: [@simonwallace](https://twitter.com/SimonWallace)
+huggingface: [@simonosgoode](https://huggingface.co/simonosgoode)
 
 ## Background as a litigator
 
