@@ -10,6 +10,8 @@ Second, as a "crimmigration" lawyer, I am interested in the function and use of 
 
 I am the developer of [obiter.ai](www.obiter.ai), an open-source toolkit for legal researchers. This is a Python package that can be used to facilitate computational analyses of Canadian case law, analyze speech, and assess the gendered valances of names found within text.
 
+Ever wonder how the Supreme Court of Canada's use of language has changed over time? I developed [benchbabble.ca](www.benchbabble.ca) to let you track linguistic trends in the Court's judgements since its establishment.
+
 ### Contact info
 email: simonwallace at osgoode dot yorku dot ca <br>
 twitter: [@simonwallace](https://twitter.com/SimonWallace) <br>
