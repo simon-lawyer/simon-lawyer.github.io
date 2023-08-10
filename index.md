@@ -59,6 +59,8 @@ Adjunct professor at:
 - Queens University (Graduate Diploma in Immigration and Citizenship Law)
 
 ### Presentations
+Lots. Here is a selection:
+
 1. “Decarcerting the long-term detainee: using AI to understand the why migrants spent fewer days in Canadian immigration detention (2013-2020),” Law and Society Annual Meeting: Lisbon, July 2022.
 2. “Crimmigration,” Summer Course on Refugees and Forced Migration, Centre for Refugee Studies, June 2022
 3. “‘Our Chief Deportation Officer:’ Dr. Peter Bryce and the Department of the Interior (1904-1907),” Canadian Historical Association Annual Meeting, Congress of Humanities and Social Sciences, May 16, 2022.
@@ -71,4 +73,3 @@ Adjunct professor at:
 10. “Immigration Detention Best Practices,” Refugee Lawyers’ Association Educational Event, March 26, 2019.
 11. Moderator, “Habeas Corpus Best Practices,” Asper Centre’s Immigration Detention Symposium, March 15, 2019.
 12. “Making principled objections to the admission of hearsay evidence before the Immigration Division,” Law Society of Upper Canada’s Immigration Law Summit, November 28, 2018.
-13. “The Parkdale Rent Strike,” Socialist Project’s Red Talks, December 1, 2017.
