@@ -1,15 +1,18 @@
 ### Research
 
-I am a PhD student at Osgoode Hall Law School, working with [Prof. Sean Rehaag](https://www.osgoode.yorku.ca/faculty-and-staff/rehaag-sean/). I am a researcher at the [Refugee Law Labratory](https://refugeelab.ca). 
+I am a PhD student at Osgoode Hall Law School and refugee lawyer. 
 
-I have two broad research agendas. First, I use cutting-edge AI and natural language processing models to read caselaw at scale. My objective is to develop analytic methods to allow legal researchers to draw empirical conclusions about the shape of the law. For example, if a tribunal issues 20,000 decisions a year, I aim to find a way to read and render conclusions about the tribunal's total jurisprudence.
+I have two broad research agendas. First, how can legal research be enriched with computational methodologies? Inspiried by the computational study of literature, I aim to develop methods to read a jurisprudence at scale. For example, if a tribunal issues 20,000 decisions a year, I aim to find a way to read and render conclusions about the tribunal's total jurisprudence.
 
-Second, as a "crimmigration" lawyer, I am interested in the function and use of Canadian deportation law. I research Canadian inadmissibility law, administrative law, and the history of Canadian immigration law (specifically 1899 to 1914).
+Second, as a "crimmigration" lawyer, I am interested in the function and use of Canadian deportation law. I research Canadian inadmissibility law, administrative law, and the history of Canadian immigration law (1893 to 1914).
+
+### Open source contributions
+
+I am the developer of [obiter.ai](www.obiter.ai), an open-source toolkit for legal researchers. This is a Python package that can be used to facilitate computational analyses of Canadian case law, analyze speech, and assess the gendered valances of names found within text.
 
 ### Contact info
 email: simonwallace at osgoode dot yorku dot ca <br>
 twitter: [@simonwallace](https://twitter.com/SimonWallace) <br>
-huggingface: [@simonosgoode](https://huggingface.co/simonosgoode) <br>
 
 ### Background as a litigator
 
@@ -40,17 +43,13 @@ I have advanced significant litigation regarding the use of solitary confinement
 14. Symon’s Essay Prize, Trent University (2007, 2008).
 
 ### Publications
-1. "The new Canadian law of refugee exclusion: an empirical analysis of international criminal law deportation orders, January 2018 to July 2020," (2022) [International Criminal Law Review](https://brill.com/view/journals/icla/icla-overview.xml?language=en) [forthcoming].
-2. “Untangling deportation law from national security: the pandemic invites a softer touch,” in Leah West, Thomas Juneau, and Amarnath Amarasingam eds., [_Stress Tested: The COVID-19 Pandemic and Canadian National Security_](https://prism.ucalgary.ca/bitstream/handle/1880/114134/9781773852447_OA.pdf) (Calgary: University of Calgary Press, 2021)
-3. [“Immigration Detention meets Evidence Law: a discussion paper,”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915791) for Fact-Finding in Immigration Detention Reviews: Evidence Law meets Administrative Law conference. [co-authors: Sean Rehaag and Benjamin Berger]
-4. “Deleted Emails, Fraudulent Documents, and Maximum-Security Prisons: A Canadian Case Shows the Illiberalism of Deportation,” Crimmigration Blog, University of Oxford (December 14, 2020).
-5. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., [_Keywords for Radicals_](https://www.akpress.org/keywords-for-radicals.html) (Chico, CA: AK Press, 2016).
-
-### Forthcoming
-Publications anticipated for 2022:
-- origins of Canadian deportation law
-- empirical analysis of crimes against humanity and war crimes deportation cases
-- empirical analysis of terrorism and national security deportation cases
+1. ["'Police Authority is Necessary': The Canadian Origins of the Legal Powers to Detain and Deport, 1893-1902,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497377) (2023) 48:2 Queen's Law Journal.
+2. ["Persistent Discord: The Adjudication of National Security Deportation Dases in Canada (2018–2020),"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497373) (2024) 47:1 Dal LJ (Forthcoming).
+3. "The new Canadian law of refugee exclusion: an empirical analysis of international criminal law deportation orders, January 2018 to July 2020," (2022) [International Criminal Law Review](https://brill.com/view/journals/icla/icla-overview.xml?language=en).
+4. “Untangling deportation law from national security: the pandemic invites a softer touch,” in Leah West, Thomas Juneau, and Amarnath Amarasingam eds., [_Stress Tested: The COVID-19 Pandemic and Canadian National Security_](https://prism.ucalgary.ca/bitstream/handle/1880/114134/9781773852447_OA.pdf) (Calgary: University of Calgary Press, 2021)
+5. [“Immigration Detention meets Evidence Law: a discussion paper,”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915791) for Fact-Finding in Immigration Detention Reviews: Evidence Law meets Administrative Law conference. [co-authors: Sean Rehaag and Benjamin Berger]
+6. “Deleted Emails, Fraudulent Documents, and Maximum-Security Prisons: A Canadian Case Shows the Illiberalism of Deportation,” Crimmigration Blog, University of Oxford (December 14, 2020).
+7. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., [_Keywords for Radicals_](https://www.akpress.org/keywords-for-radicals.html) (Chico, CA: AK Press, 2016).
 
 ### Teaching
 Adjunct professor at:
@@ -58,9 +57,9 @@ Adjunct professor at:
 - Queens University (Graduate Diploma in Immigration and Citizenship Law)
 
 ### Presentations
-1. “Decarcerting the long-term detainee: explaining the why migrants spent fewer days in Canadian immigration detention (2013-2020),” Law and Society Annual Meeting: Lisbon, July 2022. [future event]
-2. “Crimmigration,” Summer Course on Refugees and Forced Migration, Centre for Refugee Studies, June 2022. [future event]
-3. “‘Our Chief Deportation Officer:’ Dr. Peter Bryce and the Department of the Interior (1904-1907),” Canadian Historical Association Annual Meeting, Congress of Humanities and Social Sciences, May 16, 2022. [future event]
+1. “Decarcerting the long-term detainee: using AI to understand the why migrants spent fewer days in Canadian immigration detention (2013-2020),” Law and Society Annual Meeting: Lisbon, July 2022.
+2. “Crimmigration,” Summer Course on Refugees and Forced Migration, Centre for Refugee Studies, June 2022
+3. “‘Our Chief Deportation Officer:’ Dr. Peter Bryce and the Department of the Interior (1904-1907),” Canadian Historical Association Annual Meeting, Congress of Humanities and Social Sciences, May 16, 2022.
 4. “Immigration Detention Reviews: Lessons from Psychology and Psychiatry,” Centre for Refugee Studies Seminar Series, York University, September 21, 2021.
 5. “Deporting members of organized crime groups: Canada targets people for poverty crime,” Crimmigration Control: International Net of Studies, Leiden University, September 17, 2021.
 6. “The Coercive Turn in Canadian Immigration Law: Looking for the First Immigration Detention,” Law and Impact: Graduate Law Research Transition Conference, Dalhousie University, May 21, 2021.
