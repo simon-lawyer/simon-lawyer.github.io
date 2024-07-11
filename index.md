@@ -1,6 +1,6 @@
 ### Research
 
-I am a PhD student at Osgoode Hall Law School and refugee lawyer. 
+I am a PhD candidate at Osgoode Hall Law School and refugee lawyer. 
 
 I have two broad research agendas. First, how can legal research be enriched with computational methodologies? Inspiried by the computational study of literature, I aim to develop methods to read a jurisprudence at scale. For example, if a tribunal issues 20,000 decisions a year, I aim to find a way to read and render conclusions about the tribunal's total jurisprudence.
 
@@ -14,7 +14,6 @@ Ever wonder how the Supreme Court of Canada's use of language has changed over t
 
 ### Contact info
 email: simonwallace at osgoode dot yorku dot ca <br>
-twitter: [@simonwallace](https://twitter.com/SimonWallace) <br>
 
 ### Background as a litigator
 
@@ -29,33 +28,39 @@ I have advanced significant litigation regarding the use of solitary confinement
 1. Contract faculty of the year (2021-2022), Lincoln Alexander Law School (Toronto Metropolitan University)
 
 #### Scholarships and Awards
-1. Canada Graduate Scholarship, Social Sciences and Humanities Research Council (2022-2025)
-2. Ontario Graduate Scholarship (2021-2022)
-3. Newton W. Rowell Scholarship (2021-2022)
-4. Nathanson Centre on Transnational Human Rights, Crime and Security Fellowship (2020-2021)
-5. John W. Graham Fellowship (2020-2023)
-6. York University Graduate Scholarship (2020)
-7. Frederick Zemans Prize in Poverty Law (2014)
-8. Judith Wahl Award in Law and Psychiatry, Osgoode Hall Law School (2014)
-9. Harry R. Rose Award for Highest Standing in Criminal Law, Osgoode Hall Law School (2013)
-10. Osgoode Student Award (2012)
-11. Mary Northway Graduate Award in Canadian Studies (2010)
-12. President’s List, Trent University (2008)
-13. Dean’s List, Trent University (2004-2008).
-14. Symon’s Essay Prize, Trent University (2007, 2008).
+1. Peter Oliver Prize in Canadian Legal History, Osgoode Society for Canadian Legal History (2024)
+2. Best Innovative Project, Clawbie (2022)
+3. Canada Graduate Scholarship, Social Sciences and Humanities Research Council (2022-2025)
+4. Ontario Graduate Scholarship (2021-2022)
+5. Newton W. Rowell Scholarship (2021-2022)
+6. Nathanson Centre on Transnational Human Rights, Crime and Security Fellowship (2020-2021)
+7. John W. Graham Fellowship (2020-2023)
+8. York University Graduate Scholarship (2020)
+9. Frederick Zemans Prize in Poverty Law (2014)
+10. Judith Wahl Award in Law and Psychiatry, Osgoode Hall Law School (2014)
+11. Harry R. Rose Award for Highest Standing in Criminal Law, Osgoode Hall Law School (2013)
+12. Osgoode Student Award (2012)
+13. Mary Northway Graduate Award in Canadian Studies (2010)
+14. President’s List, Trent University (2008)
+15. Dean’s List, Trent University (2004-2008).
+16. Symon’s Essay Prize, Trent University (2007, 2008).
 
 ### Publications
-1. ["'Police Authority is Necessary': The Canadian Origins of the Legal Powers to Detain and Deport, 1893-1902,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497377) (2023) 48:2 Queen's Law Journal.
-2. ["Persistent Discord: The Adjudication of National Security Deportation Dases in Canada (2018–2020),"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497373) (2024) 47:1 Dal LJ (Forthcoming).
-3. "The new Canadian law of refugee exclusion: an empirical analysis of international criminal law deportation orders, January 2018 to July 2020," (2022) [International Criminal Law Review](https://brill.com/view/journals/icla/icla-overview.xml?language=en).
-4. “Untangling deportation law from national security: the pandemic invites a softer touch,” in Leah West, Thomas Juneau, and Amarnath Amarasingam eds., [_Stress Tested: The COVID-19 Pandemic and Canadian National Security_](https://prism.ucalgary.ca/bitstream/handle/1880/114134/9781773852447_OA.pdf) (Calgary: University of Calgary Press, 2021)
-5. [“Immigration Detention meets Evidence Law: a discussion paper,”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915791) for Fact-Finding in Immigration Detention Reviews: Evidence Law meets Administrative Law conference. [co-authors: Sean Rehaag and Benjamin Berger]
-6. “Deleted Emails, Fraudulent Documents, and Maximum-Security Prisons: A Canadian Case Shows the Illiberalism of Deportation,” Crimmigration Blog, University of Oxford (December 14, 2020).
-7. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., [_Keywords for Radicals_](https://www.akpress.org/keywords-for-radicals.html) (Chico, CA: AK Press, 2016).
+1. Simon Wallace, Benjamin Perryman, Gábor Lukács, Sean Rehaag, ["'The Biggest Problem With You…': Racial profiling and Canada’s program of extra-territorial migrant interdiction"](https://digitalcommons.osgoode.yorku.ca/cgi/viewcontent.cgi?article=1390&context=all_papers) (2024) Osgoode Hall Law Journal (forthcoming).
+2. "Speaking Like a Judge: Using Artificial Intelligence to Empirically Assess Judicial Speech in Supreme Court of Canada Hearings" (2024) 115 Supreme Court Law Review (2d) 297.
+3. ["Persistent Discord: The Adjudication of National Security Deportation Dases in Canada (2018–2020),"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497373) (2024) 47:1 Dal LJ.
+4. ["'Police Authority is Necessary': The Canadian Origins of the Legal Powers to Detain and Deport, 1893-1902,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497377) (2023) 48:2 Queen's Law Journal.
+5. ["The next jailor: An empirical study of danger to the public immigration detentions in Canada (summer 2021)"](https://journals.sagepub.com/doi/pdf/10.1177/14624745231200787) (2023) Punishment and Society.
+6. "The new Canadian law of refugee exclusion: an empirical analysis of international criminal law deportation orders, January 2018 to July 2020," (2022) [International Criminal Law Review](https://brill.com/view/journals/icla/icla-overview.xml?language=en).
+7. “Untangling deportation law from national security: the pandemic invites a softer touch,” in Leah West, Thomas Juneau, and Amarnath Amarasingam eds., [_Stress Tested: The COVID-19 Pandemic and Canadian National Security_](https://prism.ucalgary.ca/bitstream/handle/1880/114134/9781773852447_OA.pdf) (Calgary: University of Calgary Press, 2021)
+8. [“Immigration Detention meets Evidence Law: a discussion paper,”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915791) for Fact-Finding in Immigration Detention Reviews: Evidence Law meets Administrative Law conference. [co-authors: Sean Rehaag and Benjamin Berger]
+9. “Deleted Emails, Fraudulent Documents, and Maximum-Security Prisons: A Canadian Case Shows the Illiberalism of Deportation,” Crimmigration Blog, University of Oxford (December 14, 2020).
+10. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., [_Keywords for Radicals_](https://www.akpress.org/keywords-for-radicals.html) (Chico, CA: AK Press, 2016).
 
 ### Teaching
 Adjunct professor at:
-- Toronto Metropolitan University (Lincoln Alexander School of Law) 
+- Toronto Metropolitan University (Lincoln Alexander School of Law)
+- York University (Osgoode Hall Law School)
 - Queens University (Graduate Diploma in Immigration and Citizenship Law)
 
 ### Presentations
