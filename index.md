@@ -15,6 +15,18 @@ To track linguistic trends at the Supreme Court of Canada, I developed [benchbab
 ### Contact info
 email: simonwallace at osgoode dot yorku dot ca <br>
 
+### Publications
+1. Simon Wallace, Benjamin Perryman, Gábor Lukács, Sean Rehaag, ["'The Biggest Problem With You…': Racial profiling and Canada’s program of extra-territorial migrant interdiction"](https://digitalcommons.osgoode.yorku.ca/cgi/viewcontent.cgi?article=1390&context=all_papers) (2024) Osgoode Hall Law Journal (forthcoming).
+2. "Speaking Like a Judge: Using Artificial Intelligence to Empirically Assess Judicial Speech in Supreme Court of Canada Hearings" (2024) 115 Supreme Court Law Review (2d) 297.
+3. ["Persistent Discord: The Adjudication of National Security Deportation Dases in Canada (2018–2020),"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497373) (2024) 47:1 Dal LJ.
+4. ["'Police Authority is Necessary': The Canadian Origins of the Legal Powers to Detain and Deport, 1893-1902,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497377) (2023) 48:2 Queen's Law Journal.
+5. ["The next jailor: An empirical study of danger to the public immigration detentions in Canada (summer 2021)"](https://journals.sagepub.com/doi/pdf/10.1177/14624745231200787) (2023) Punishment and Society.
+6. "The new Canadian law of refugee exclusion: an empirical analysis of international criminal law deportation orders, January 2018 to July 2020," (2022) [International Criminal Law Review](https://brill.com/view/journals/icla/icla-overview.xml?language=en).
+7. “Untangling deportation law from national security: the pandemic invites a softer touch,” in Leah West, Thomas Juneau, and Amarnath Amarasingam eds., [_Stress Tested: The COVID-19 Pandemic and Canadian National Security_](https://prism.ucalgary.ca/bitstream/handle/1880/114134/9781773852447_OA.pdf) (Calgary: University of Calgary Press, 2021)
+8. [“Immigration Detention meets Evidence Law: a discussion paper,”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915791) for Fact-Finding in Immigration Detention Reviews: Evidence Law meets Administrative Law conference. [co-authors: Sean Rehaag and Benjamin Berger]
+9. “Deleted Emails, Fraudulent Documents, and Maximum-Security Prisons: A Canadian Case Shows the Illiberalism of Deportation,” Crimmigration Blog, University of Oxford (December 14, 2020).
+10. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., [_Keywords for Radicals_](https://www.akpress.org/keywords-for-radicals.html) (Chico, CA: AK Press, 2016).
+
 ### Background as a litigator
 
 Out of law school, I opened my own practice as a refugee, [tenants'](https://www.thestar.com/news/gta/2017/02/08/parkdale-tenants-take-to-the-street-to-fight-rent-hike.html) [rights](https://www.cbc.ca/radio/asithappens/friday-detroit-water-update-roma-attack-swedish-real-estate-company-and-more-1.2903412/toronto-s-parkdale-residents-fear-radical-gentrification-as-european-company-buys-up-thousands-of-apartments-1.2903419), and [prisoners' rights](https://www.canlii.org/en/ca/scc/doc/2019/2019scc29/2019scc29.html?autocompleteStr=chhina&autocompletePos=1) lawyer.
@@ -44,18 +56,6 @@ I have advanced significant litigation regarding the use of solitary confinement
 14. President’s List, Trent University (2008)
 15. Dean’s List, Trent University (2004-2008).
 16. Symon’s Essay Prize, Trent University (2007, 2008).
-
-### Publications
-1. Simon Wallace, Benjamin Perryman, Gábor Lukács, Sean Rehaag, ["'The Biggest Problem With You…': Racial profiling and Canada’s program of extra-territorial migrant interdiction"](https://digitalcommons.osgoode.yorku.ca/cgi/viewcontent.cgi?article=1390&context=all_papers) (2024) Osgoode Hall Law Journal (forthcoming).
-2. "Speaking Like a Judge: Using Artificial Intelligence to Empirically Assess Judicial Speech in Supreme Court of Canada Hearings" (2024) 115 Supreme Court Law Review (2d) 297.
-3. ["Persistent Discord: The Adjudication of National Security Deportation Dases in Canada (2018–2020),"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497373) (2024) 47:1 Dal LJ.
-4. ["'Police Authority is Necessary': The Canadian Origins of the Legal Powers to Detain and Deport, 1893-1902,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497377) (2023) 48:2 Queen's Law Journal.
-5. ["The next jailor: An empirical study of danger to the public immigration detentions in Canada (summer 2021)"](https://journals.sagepub.com/doi/pdf/10.1177/14624745231200787) (2023) Punishment and Society.
-6. "The new Canadian law of refugee exclusion: an empirical analysis of international criminal law deportation orders, January 2018 to July 2020," (2022) [International Criminal Law Review](https://brill.com/view/journals/icla/icla-overview.xml?language=en).
-7. “Untangling deportation law from national security: the pandemic invites a softer touch,” in Leah West, Thomas Juneau, and Amarnath Amarasingam eds., [_Stress Tested: The COVID-19 Pandemic and Canadian National Security_](https://prism.ucalgary.ca/bitstream/handle/1880/114134/9781773852447_OA.pdf) (Calgary: University of Calgary Press, 2021)
-8. [“Immigration Detention meets Evidence Law: a discussion paper,”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915791) for Fact-Finding in Immigration Detention Reviews: Evidence Law meets Administrative Law conference. [co-authors: Sean Rehaag and Benjamin Berger]
-9. “Deleted Emails, Fraudulent Documents, and Maximum-Security Prisons: A Canadian Case Shows the Illiberalism of Deportation,” Crimmigration Blog, University of Oxford (December 14, 2020).
-10. “Friend” in Clare O’Connor, AK Thompson, and Kelly Frisch, eds., [_Keywords for Radicals_](https://www.akpress.org/keywords-for-radicals.html) (Chico, CA: AK Press, 2016).
 
 ### Teaching
 Adjunct professor at:
