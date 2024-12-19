@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://use.typekit.net/ado8pww.css" />
+    <title>Simon Wallace, PhD</title>
+    <style>
+      body {
+        font-family: "minion-3", serif;
+        font-weight: 400;
+        font-style: normal;
+        margin: 0;
+        padding: 0;
+        min-height: 100vh;
+        background-color: #f4f4f4;
+        position: relative; /* Ensure absolute elements are positioned relative to the body */
+      }
+
+      .container {
+        position: absolute;
+        top: 10%;
+        left: 15%;
+        transform: translateX(0);
+        text-align: left;
+        padding: 20px;
+        width: 35%; /* This places the container from ~15% to ~50% of the screen width */
+      }
+
+      .image-container {
+        position: absolute;
+        top: 50%; /* position it halfway down the page */
+        right: 15%; /* same horizontal offset as before */
+        transform: translateY(-50%); /* pull it up by 50% of its own height */
+      }
+
+      .image-container img {
+        width: 300px; /* Adjust as needed */
+        height: auto;
+      }
+
+      h1 {
+        color: #333;
+        font-weight: 500;
+        font-style: normal;
+      }
+
+      h2 {
+        color: #333;
+        font-weight: 400;
+        margin-top: 10px;
+      }
+
+      p {
+        font-size: 1.2rem;
+        color: #333;
+        text-align: justify;
+      }
+
+      .center {
+        text-align: center;
+      }
+
+      a,
+      a:visited,
+      a:hover,
+      a:active {
+        color: #333;
+        text-decoration: underline;
+      }
+
+      /* Responsive consideration */
+      /* Mobile Styles */
+      @media (max-width: 768px) {
+        body {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: flex-start;
+        }
+
+        .container,
+        .image-container {
+          position: static;
+          transform: none;
+          width: 90%;
+          max-width: 400px; /* optional: limit max width for readability */
+          margin: 20px auto;
+        }
+
+        .container {
+          text-align: left; /* or center, depending on your preference */
+          padding: 20px;
+        }
+
+        .image-container {
+          display: flex;
+          justify-content: center;
+          margin-top: 0;
+        }
+
+        .image-container img {
+          width: 250px; /* smaller on mobile */
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Simon Wallace, PhD.</h1>
+      <h2>Computational Researcher. Historian. Lawyer.</h2>
+      <p>
+        Every day courts and tribunals produce millions of words of text, most
+        of which is read once, before it is filed away in the archive, never to
+        be read again.
+      </p>
+      <p>
+        This is the “great unread” of legal experience, filled with promise for
+        the social scientist: every document is the evidentiary residue of some
+        legal experience.
+      </p>
+      <p>
+        But we do not read the unread. The reason is obvious: you and I can only
+        read so much in a day. But if we are so limited, is a computer?
+      </p>
+      <p>
+        My research is computational: how can computers give legal researchers
+        an approach on the “great unread” of legal text? Using algorithmic
+        techniques and massive datasets of legal text and information, I build
+        models of legal experience.
+      </p>
+      <p>
+        When I am not working with computers, I write award-winning legal
+        histories and large empirical accounts of the law-in-action.
+      </p>
+
+      <p class="center">
+        <a href="https://scholar.google.ca/citations?user=kCt-svsAAAAJ&hl=en"
+          >Google Scholar</a
+        >
+        / <a href="2024 12 19 Wallace cv.pdf">CV</a> /
+        <a href="http://obiter.ai">Obiter.AI</a> /
+        <a
+          href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4814693"
+          >SSRN</a
+        >
+      </p>
+    </div>
+    <div class="image-container">
+      <img src="simon_wallace.jpeg" alt="Photo of Simon Wallace" />
+    </div>
+    <!-- 100% privacy-first analytics -->
+    <script
+      data-collect-dnt="true"
+      async
+      src="https://scripts.simpleanalyticscdn.com/latest.js"
+    ></script>
+  </body>
+</html>
